@@ -1,0 +1,304 @@
+0x7A69 Dark:					4/10: bland, rustic
+1989:									1/10: pink everything
+256 greyvim: 					5/10: fine color, needs contrast
+256 jungle: 					4/10: poor color, rustic
+256 noir: 						5/10: grey on black
+3d glasses: 					5/10: plain seafoam
+Atelier cavedark: 		5/10: muted blue-purple
+Atelier dunedark: 		7/10: strong color, good contrast
+Atelier estuarydark:	5/10: muted swamp, rustic
+Atelier forestdark: 	6/10: very strong contrast
+Atelier heathdark: 		5/10: muted strong contrast
+Atelier plateudark: 	5/10: muted fine contrast
+Atelier savannadark:	4/10: muted desert
+Atelier seasidedark:	7/10: strong color, proper contrast and shading
+Atelier sulphurpool:	4/10: muted rustic, but decent contrast
+Benokai:							7/10: good contrast, ok colors
+black:								5/10: plain seafoam
+blacksea:							4/10: absurd contrast
+blue2									4/10: plain 
+c64:									2/10: powershell blue everything 
+candypaper:						1/10: swamp moss, no contrast
+chasing logic:				8/10: great contrast, ok colors
+chocolateliquor:			6/10: darker accented plain
+chocolatepapaya:			6/10: darker accented plain
+codefactoryv3:				3/10: muted plain grey
+dark:									x/10: fails airline
+dark2:								x/10: fails airline
+darkdefault:					x/10: fails airline
+devc++: 							2/10: rustic dark
+dev delight: 					x/10: fails airline
+dim:									2/10: grey plain, airline incompat
+dim2:									2/10: grey plain, airline incompat
+dimblue:							2/10: grey plain, airline incompat
+dim***
+light***
+monokai:							7/10: good contrast, ok color, boxed text
+mountaindew:					3/10: plain, didnt load?
+oceanicnext:					9/10: nice constrast, nice color
+papayawhip:						0/10: unusable
+papercolor:						6/10: fine contrast, weird color
+perfectdark:					4/10: plain on grey
+red:									4/10: plain, not red
+revolution:						3/10: muted rustic, good contrast
+serialexperiments:		8/10: nice contrast, weird color
+slate:								x/10: fails airline
+slatedark:						4/10: ok contrast, poor color, rustic
+spink:								2/10: nothing on grey
+sweetcandy:						6/10: excess contrast
+tomorrownightblue:		7/10: good color, good contrast, blue theme 
+tomorrownightbright:	6/10: ok color, ok contrast, muted
+tomorrownighteighties:5/10: muted, ok color
+tomorrownight:				4/10: very muted
+tomorrow:							1/10: light theme
+vivid:								2/10: strong contrast, breaks airline
+white2: 							x/10: fails airline
+abbott:								4/10: plain
+abra:									4/10: plain
+abyss:								6/10: very blue, strong contrast
+adam:									5/10: nuts contrast
+adaryn:								5/10: fresh, ok contrast, rustic
+advantage:						5/10: strong contrast, breaks airline
+adventurous:					7/10: strong contrast, good color, dark
+af:										6/10: muted, good color, breaks airline
+afterglow:						7/10: muted, good color
+aiseered:							3/10: super red
+alduin:								4/10: muted desert, almost rustic
+ancient:							0/10: unusable
+anderson:							7/10: muted, good color, good contrast
+angr:									8/10: good contrast, ok color, swampy
+anotherdark:					8/10: great contrast, slightly muted, breaks airline, boxed text
+ansi blows:						5/10: strong contrast, plain
+antares:							7/10: good color, good contrast, plain
+apprentice:						5/10: muted, plain, good color
+aqua:									3/10: too blue, ok contrast
+aquamarine:						5/10: strong contrast, ok color
+arcadia: 							4/10: muted, poor contrast, good color
+archery:							2/10: poor color, poor contrast
+argonaut:							5/10: plain, good contrast
+ashen:								4/10: light-ish theme, good color, poor contrast
+asmanian2:						3/10: plain, strong contrast, breaks airline
+asmanian blood:				5/10: good color, very muted, ok contrast
+asmdev:								7/10: good color, good contrast, muted
+asmdev2:							3/10: rustic on red
+astronaut:						4/10: nuts contrast, blue theme
+asu1dark:							4/10: strong contrast, plain, breaks airline
+atom:									5/10: muted, good color, ok contrast
+aurora:								1/10: light theme
+automation: 					1/10: light theme
+autumn:								1/10: light theme
+autumnleaf:						2/10: light theme
+ayu:									5/10: good contrast, rustic
+babymate256:					6/10: muted, good color, ok contrast
+badwolf:							6/10: strong contrast, ok color
+bandit:								x/10: unkown error
+base:									4/10: poor contrast
+base16
+	_ateliercave:				4/10: very muted, ok contrast	
+	_atelierdune:				6/10: muted, good contrast, good color
+	_atelierestuary:		4/10: muted, ok contrast, swampy
+	_atelierforest:			6/10: strong contrast, ok color
+	_atelierheath:			5/10: good color, ok contrast
+	_atelierlakeside:		4/10: poor contrast, ok color
+	_atelierplateau:		5/10: good color, ok contrast
+	_ateliersavanna:		4/10: ok color, poor contrast, muted
+	_atelierseaside:		6/10: good color, strong contrast
+	_ateliersulfur:			4/10: poor contrast, ok color, blue theme
+	_railscasts					7/10: great color, ok contrast, fresh
+basic dark:						5/10: ok contrast, ok color, slightly muted
+basic:								3/10: nothing on black
+bayqua:								3/10: good color, good contrast, ... in a white box
+baycomb:							8/10: great color, good contrast, muted
+bclear:								2/10: white theme, has highlighting
+beachcomber:					2/10: tan, poor contrast
+beauty256:						3/10: white theme, ok contrast
+beekai:								3/10: strong contrast, poor color
+behelit:							4/10: good color, nuts contrast
+benlight:							4/10: brown on rustic
+bensday:							x/10: fails airline
+billw:								5/10: plain, ok color
+biogoo:								2/10: light-ish theme, poor color
+birds of paradise:		6/10: good contrast, rustic
+bitterjug:						4/10: strong contrast, plain
+black angus:					5/10: strong contrast, good color
+blackbeauty:					4/10: plain, ok contrast
+blackboard:						6/10: great color, ok contrast, plain
+blackdust:						4/10: ok contrast, grey theme
+blacklight:						6/10: great contrast, ok color
+blaquemagick:					x/10: unkonwn error
+blazer:								5/10: strong contrast, ok color
+blink:								4/10: ok contrast, poor color
+blue:									3/10: blue, poor contrast
+bluechia:							5/10: ok contrast, ok color
+bluedrake:						3/10: blue + swamp
+bluegreen:						3/10: fresh, poor color, poor contrast
+bluenes:							2/10: white on grey on black
+blueprint:						2/10: blue theme, ok contrast
+blues:								4/10: ok contrast, poor color
+blueshift:						2/10: light theme, blue color
+bluez:								2/10: poor contrast, poor color (green)
+blugrine:							3/10: poor color, poor contrast, dark
+bluish:								3/10: strong contrast, poor color
+bmichaelsen:					2/10: light-grey theme
+boa:									4/10: ok contrast, ok color, muted
+bocau:								5/10: strong contrast, ok color
+bog:									2/10: light theme, green edges
+boltzmann:						3/10: white on dark, plain
+borland:							3/10: blue theme, ok contrast
+breeze:								4/10: ok color, ok contrast, plain seafoam
+breezy:								4/10: plain dark rustic
+brighton:							4/10: ok contrast, poor color
+briofita:							3/10: swamp, ok contrast, muted
+broduo:								x/10: broken
+brogrammer:						7/10: good contrast, ok color, dark
+brookstream:					5/10: ok contrat, poor color, dark
+brown:								1/10: almost unusable
+bubblegum 256 dark:		4/10: ok color, poor contrast, muted
+bubblegum:						4/10: ok color, poor contrast, muted
+buddy:								5/10: good contrast, ok color, rustic
+burnttoast256:				6/10: good color, ok contrast
+busierbee:						3/10: plain color, poor contrast
+busybee:							3/10: plain color, poor contrast
+buttercream:					2/10: yellow everything
+bvemu:								6/10: nice color, good contrast, muted
+bw:										5/10: cool contrast, poor color
+c:										4/10: plain
+c16gui:								5/10: strong contrast, ok color
+cabin:								2/10: muted, poor contrast, ok color
+cake:									3/10: light-theme, good colors
+cake16:								3/10: tan-theme, good colors
+calmar256 dark:				3/10: strong contrast, bad colors
+camo:									4/10: tan on army green, poor contrast
+campfire:							5/10: good contrast, ok color
+candy:								5/10: good color, ok contrast
+candycode:						7/10: good contrast, fine color, fresh
+candyman:							4/10: ok color, ok contrast, muted
+caramel:							3/10: nuts contrast, poor color
+carrot:								3/10: peach light-theme, good colors
+carvedwood:						3/10: poor contrast, poor color
+cascadia:							1/10: white theme
+celtics away:					1/10: green sports team
+cgpro:								6/10: good contrast, ok color
+chalkboard:						7/10: good contrast, good color, muted
+chance of storm:			6/10: good color, fine contrast
+charged 256:					6/10: good color, fine contrast
+charon:								4/10: fine contrast, poor color
+cherryblossom:				3/10: light theme, good colors
+chlordane:						2/10: poor contrast, poor color
+chocolate:						4/10: ok contrast, poor color
+chroma:								7/10: strong contrast, good color
+chrysoparse:					1/10: light theme
+clarity:							6/10: good contrast, fine color, blue theme
+cleanphp:							1/10: poor contrast, poor color
+cleanroom:						1/10: white theme
+clearance: 						6/10: strong contrast, fine color
+cloudy:								4/10: strong/poor contrast, good color
+clue:									3/10: ok contrast, rustic, blue theme
+cobalt:								5/10: good contrast, rustic
+cobalt2:							4/10: poor contrast, rustic
+cobaltish:						5/10: good contrast, rustic
+coda:									2/10: light theme, nice color
+codeblocks dark:			6/10: good color, ok contrast, muted
+codeburn:							2/10: light-ish theme, ok color
+codedark:							5/10: ok contrast, ok color, muted
+codeschool:						6/10: good contrast, nice color, muted
+coffee:								4/10: ok contrast, poor color, muted, rustic
+coldgreen:						4/10: plain, ok contrast
+colorer:							2/10: poor contrast, poor color
+colorful:							3/10: light theme, good contrast, good color
+colorful256:					5/10: good contrast, ok color, dark
+colorsbox faff:				3/10: tan theme, good color, poor contrast
+colorsbox greenish:		2/10: poor contrast, poor color
+colorsbox material:		6/10: good contrast, ok color, dark
+colorsbox stblue:			4/10: blue theme, good colors, ok contrast, muted
+colorsbox stbright:		5/10: strong contrast, ok color
+colorsbox steighties: 5/10: ok contrast, ok color, muted
+colorsbox stnight:		5/10: ok contrast, ok color, muted
+colorzone:						2/10: light theme, ok color
+contrastneed:					5/10: strong contrast, ok color, dark
+contrasty:						3/10: strong contrast, plain, poor color
+cool:									4/10: strong contrast, nice color, blue dark
+corn:									2/10: poor color, ok contrast
+corporation:					2/10: poor color, poor contrast
+crayon:								5/10: good color, ok contrast, muted
+crt:									1/10: poor color, poor contrast
+crunchbang:						4/10: ok color, poor contrast, muted
+cthulhian:						4/10: poor color, good contrast, swamp
+custom:								3/10: strong contrast, poor color
+cyberpunk:						5/10: strong contrat, ok color, dark
+d8g 01:								5/10: strong contrast, plain
+d8g 02:								1/10: light theme
+d8g 03:								4/10: strong contrast, plain
+d8g 04:								2/10: strong contrast, bag color
+dante:								6/10: good color, ok contrast, dark
+dark ruby:						x/10: broken
+darkblue:							4/10: good contrast, blue theme
+darkblue2: 						3/10: ok contrast, blue theme
+darkz:								x/10: breaks airline
+darkbone:							5/10: good color, ok contrast, dark
+darkburn:							6/10: good color, ok contrast
+darkdevel:						5/10: ok color, good contrast, dark
+darkdot:							2/10: poor contrast, blue theme
+darkeclipse:					4/10: good contrast, plain, dark
+darker robin:					3/10: poor contrast, rustic
+darkerdesert:					5/10: good contrast, ok color, muted
+darkglass:						4/10: plain, dark
+darkocean:						3/10: ok contrast, poor color, muted
+darkrobot:						6/10: good contrast, good color, plain
+darkslategray:				2/10: ok contast, poor color, muted
+darkspectrum:					3/10: ok contrast, lacking color
+darktango:						4/10: ok contrast, poor color
+darkzen:							2/10: strong contrast, poor color
+darth:								2/10: poor contrast, poor color
+dawn:									2/10: light theme, good color
+deep space: 					7/10: good color, ok contrast, fresh
+deepsea:							5/10: ok contrast, ok color
+default:							5/10: strong contrast, ok color
+delek:								1/10: white theme
+delphi:								0/10: unusable
+denim:								5/10: good color, ok contrast, blue theme
+derefinded:						2/10: poor contrast, poor color
+desert:								5/10: good color, ok contrast, breaks airline
+desert256:						5/10: good color, ok contrast, dark
+desert256v2:					5/10: good color, ok contrast
+desertex:							5/10: good color, ok contrast
+desertedocean:				4/10: good color, poor contrast
+desertedoceanburnt:		4/10: ok color, ok contrast, muted
+desertink:						6/10: ok color, good contrast
+despacio:							4/10: ok color, poor contrast
+detailed:							4/10: ok contrast, poor color
+deus:									7/10: good color, good contrat, plain
+devbox dark 256:			7/10: good color, good contrast, plain
+deveiate:							6/10: good contrast, ok color, dark
+developer:						3/10: poor contrast, poor color
+diokai:								4/10: poor color, ok contrast
+disciple:							1/10: light theme
+distill:							5/10: good contrast, ok color, dark
+distinguished:				4/10: ok contrast, rustic
+django:								3/10: ok contrast, poor color
+donbass:							1/10: light theme
+donttouchme:					7/10: good color, ok contrast
+doorhinge:						2/10: poor color, poor contrast
+doriath:							4/10: good color, poor contrast
+dracula:							x/10: breaks airline
+dual:									1/10: light theme
+dull:									3/10: ok color, poor contrast, muted
+duotone dark:					2/10: ok contrast, poor color
+duotone darkcave:			6/10: good contrast, ok color
+duotone darkdesert:		4/10: ok contrast, poor color
+
+dusk:									5/10: good contrast, poor color
+dzo:									7/10: good color, good contrast, muted
+earendel:							6/10: good contrast, ok color, muted
+earth:								2/10: ok color, poor contrast
+earthburn:						1/10: light theme
+eclipse:							2/10: light theme, good color
+eclm wombat:					7/10: good color, strong contrast, dark
+ecostation:						6/10: good contrast, poor color, fresh
+editplus:							1/10: light theme
+edo sea:							4/10: ok contrast, poor color
+ego:									7/10: good color, strong contrast 
+eink:									5/10: ok color, strong contrast, plain
+ekinivim:							5/10: ok color, ok contrast
+
+
