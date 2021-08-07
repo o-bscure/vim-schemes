@@ -1,9 +1,4 @@
 " Vim with all enhancements
-source $VIMRUNTIME/vimrc_example.vim
-
-set nobackup
-set noundofile
-
 set nocompatible
 set relativenumber
 
